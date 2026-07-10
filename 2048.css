@@ -31,6 +31,9 @@ body {
     align-items: center;
 }
 
+/* kit tile: 2 */
+/* (these comments just help me keep track of the characters and their number asssignments) */
+
 .x2 {
     width: 145.8px;
     height: 145.8px;
@@ -41,6 +44,8 @@ body {
     background-size: 145.8px 145.8px;
     background-size: contain;
 }
+
+/* kaboodle tile: 4 */
 
 .x4 {
     width: 145.8px;
@@ -53,6 +58,8 @@ body {
     background-size: contain;
 }
 
+/* gobbles tile: 8 */
+
 .x8 {
     width: 145.8px;
     height: 145.8px;
@@ -63,6 +70,8 @@ body {
     background-size: 145.8px 145.8px;
     background-size: contain;
 }
+
+/* flappers tile: 16 */
 
 .x16{
     width: 145.8px;
@@ -75,6 +84,8 @@ body {
     background-size: contain;
 }
 
+/* snappers tile: 32 */
+
 .x32{
     width: 145.8px;
     height: 145.8px;
@@ -85,6 +96,8 @@ body {
     background-size: 145.8px 145.8px;
     background-size: contain;
 }
+
+/* fold tile: 64 */
 
 .x64{
     width: 145.8px;
@@ -97,6 +110,8 @@ body {
     background-size: contain;
 }
 
+/* miss information tile: 128 */
+
 .x128{
     width: 145.8px;
     height: 145.8px;
@@ -107,6 +122,8 @@ body {
     background-size: 145.8px 145.8px;
     background-size: contain;
 }
+
+/* malice tile: 256 */
 
 .x256{
     width: 145.8px;
@@ -119,6 +136,8 @@ body {
     background-size: contain;
 }
 
+/* crab girl tile: 512 */
+
 .x512{
     width: 145.8px;
     height: 145.8px;
@@ -129,6 +148,8 @@ body {
     background-size: 145.8px 145.8px;
     background-size: contain;
 }
+
+/* warrick tile: 1024 */
 
 .x1024{
     width: 145.8px;
@@ -141,6 +162,8 @@ body {
     background-size: contain;
 }
 
+/* dusk tile: 20248 */
+
 .x2048{
     width: 145.8px;
     height: 145.8px;
@@ -152,6 +175,8 @@ body {
     background-size: contain;
 }
 
+/* lulu tile: 4096 */
+
 .x4096 {
     width: 145.8px;
     height: 145.8px;
@@ -162,6 +187,8 @@ body {
     background-size: 145.8px 145.8px;
     background-size: contain;
 }
+
+/* seagull tile: 8192 */
 
 .x8192 {
     width: 145.8px;
