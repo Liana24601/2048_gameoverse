@@ -1,4 +1,3 @@
-# 2048-gameoverse
 
 <div align="center">
 
