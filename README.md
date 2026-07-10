@@ -35,7 +35,7 @@ I like combining my old obsessions with my current obsessions. Combining my old 
 
 ## Directions
 
-Use the up, down, left, and right arrow keys in order to merge blocks and get higher in the game. The game goes up till 2048, or the Dusk tile, but there are two extra specila tiles one can earn after that. 
+Use the up, down, left, and right arrow keys in order to merge blocks and get higher in the game. The game goes up till 2048, or the Dusk tile, but there are two extra special tiles one can earn after that. 
 
 #
 
